@@ -1,4 +1,4 @@
-module github.com/pocketbase/dbx
+module github.com/theHamdiz/dbx
 
 go 1.13
 
